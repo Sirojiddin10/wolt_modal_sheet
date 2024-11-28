@@ -9,3 +9,4 @@ export 'src/theme/wolt_modal_sheet_theme_data.dart';
 export 'src/wolt_modal_sheet.dart';
 export 'src/wolt_modal_sheet_route.dart';
 export 'src/theme/wolt_modal_sheet_animation_style.dart';
+export 'src/widgets/wolt_modal_sheet_drag_to_dismiss_detector.dart';
